@@ -97,4 +97,4 @@ Modify `styles.css` for layout and design changes
 For questions or opportunities:
 - Email: paul@paulkuprionas.com
 - Phone: (570) 817-4421
-- Location: Nanticoke, PA
+- Location: Clermont, FL
